@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title> 指定されたページが見つかりません（エラー404）: 楽天 </title>
+<style type="text/css">
+<!--
+h1,h2,h3,hr,ul,li,p {margin: 0; padding: 0;}
+header {line-height: 1.1; padding: 8px; font-size: 82%;}
+h1 {color: #BF0000; font-size: 125%; border-top: 1px #BF0000 solid; padding: 10px 10px 0; line-height: 1.3;}
+hr {display: none;}
+#errorTxt {margin: 3px 0 0;}
+.code{margin: 0; padding: 0 10px 10px; line-height: 1.3;}
+.description{margin: 0px; padding: 10px; border-top: 1px #BF0000 solid; line-height: 1.3;}
+.advice {margin: 0 30px 10px; list-style: disc; line-height: 1.3;}
+#footer {border-top: 1px #999999 solid; padding: 10px 0 0; line-height: 1.4; font-size: 82%; text-align: center;}
+-->
+</style>
+</head>
+<body>
+<header><img src="https://r.r10s.jp/com/img/logo/rakuten_group_red.svg" alt="Rakuten" border="0" width="106" height="32"></header>
+<hr>
+<div id="errorTxt">
+<h1>指定されたページが見つかりません</h1>
+<p class="code">エラー ： 404 Not Found</p>
+<p class="description">お手数ですが次のいずれかの方法でページをお探しください。<br>
+なおリンクをクリックされていた場合、ページが削除された、またはURL（ページアドレス）が変更された可能性があります。</p>
+<ul class="advice">
+<li>ブラウザの再読み込みを行う</li>
+<li>入力したURL（ページアドレス）にタイプミスがないか確認する</li>
+<li>楽天グループのサービス一覧から探す<br>
+<a href="https://www.rakuten.co.jp/ri/sitemap.html">&gt;&gt;楽天グループのサービス一覧へ</a></li>
+<li>ブラウザの「戻る」ボタンを押して前画面からやり直す</li>
+</ul>
+</div>
+<hr>
+<p id="footer">(C) Rakuten Group, Inc.</p> 
+</body>
+</html>
